@@ -50,11 +50,12 @@
 </p>
 
 ---
+
 ### 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ton-pseudo&show_icons=true&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8" alt="Stats GitHub" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ton-pseudo&layout=compact&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8" alt="Top Langages" height="150" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThibautVermersch&show_icons=true&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&icon_color=4a1f80&count_private=true" alt="Statistiques de Thibaut" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautVermersch&layout=compact&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&hide=html,css" alt="Langages les plus utilisés" />
 </p>
 
 ---
