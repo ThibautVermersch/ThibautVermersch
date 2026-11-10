@@ -2,7 +2,7 @@
 
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:4a1f80,50:080711,100:16287e&height=250&section=header&text=Thibaut%20Vermersch&fontSize=70&fontColor=f8f9fa&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur+web;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
 
 ---
 
