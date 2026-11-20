@@ -5,44 +5,19 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur+web;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
 
 ---
-### 🌐 Frontend 
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+<a href="https://sachin-shell.vercel.app">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/terminal-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="./assets/terminal-light.svg">
+    <img alt="sachin@shell: Sachin Kumar, Product Engineer at Glomo, Bengaluru" src="./assets/terminal-dark.svg" width="100%">
+  </picture>
+</a>
 
-<br/>
+---
 
-### ⚙️ Backend & Langages
+<table> <tr> <td valign="middle" align="center" width="130" nowrap><b>🎨&nbsp;Frontend</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5"><br><sub><b>HTML5</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3"><br><sub><b>CSS3</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>⚙️&nbsp;Backend</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="40" alt="PHP"><br><sub><b>PHP</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="40" alt="Laravel"><br><sub><b>Laravel</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" alt="Flask"><br><sub><b>Flask</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java"><br><sub><b>Java</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" alt="Python"><br><sub><b>Python</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" alt="Bash"><br><sub><b>Bash</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>🗄️&nbsp;Données</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td> <td align="center" width="90"><img src="./assets/sql.svg" height="40" alt="SQL"><br><sub><b>SQL</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>💻&nbsp;IDE</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="VS Code"><br><sub><b>VS Code</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" alt="IntelliJ IDEA"><br><sub><b>IntelliJ IDEA</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" height="40" alt="PhpStorm"><br><sub><b>PhpStorm</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" alt="Eclipse"><br><sub><b>Eclipse</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>🛠️&nbsp;Outils</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git"><br><sub><b>Git</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="Linux"><br><sub><b>Linux</b></sub></td> </tr></table> </td> </tr> </table>
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Java](https://img.shields.io/badge/Java-5382A1?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-
-<br/>
-
-### 🗄️ Bases de données
-
-![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-<br/>
-
-### 💻 IDE & Éditeurs
-
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-7B1FA2?style=for-the-badge&logo=intellijidea&logoColor=white)
-![PhpStorm](https://img.shields.io/badge/PhpStorm-B71775?style=for-the-badge&logo=phpstorm&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-<br/>
-
-### 🛠️ Outils & Système
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ---
 
 ### 🚀 Projets mis en avant
@@ -86,6 +61,7 @@
   </tr>
 </table>
 
+
 ---
 
 ### 📊 Statistiques GitHub
@@ -96,6 +72,15 @@
 </p>
 
 ---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThibautVermersch/ThibautVermersch/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ThibautVermersch/ThibautVermersch/output/snake.svg">
+  <img alt="Serpent qui mange le graphe de contributions" src="https://raw.githubusercontent.com/ThibautVermersch/ThibautVermersch/output/snake.svg" width="100%">
+</picture>
+
+---
+
 ### 📫 Me contacter
 
 <p align="center">
