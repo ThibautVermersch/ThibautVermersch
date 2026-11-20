@@ -2,7 +2,7 @@
 
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:4a1f80,50:080711,100:16287e&height=250&section=header&text=Thibaut%20Vermersch&fontSize=70&fontColor=f8f9fa&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur+web;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
 
 ---
 
@@ -22,54 +22,38 @@
 
 ### 🚀 Projets mis en avant
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/animeList">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=animeList&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="animeList" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/Fractalens">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Fractalens&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="FractaLens" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/PacMan">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=PacMan&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="PacMan" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/Application-Gestion-de-Cabinet-medical">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Application-Gestion-de-Cabinet-medical&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Gestion de Cabinet médical" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/Generateur-de-mots-de-passe">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Generateur-de-mots-de-passe&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Générateur de mots de passe" />
-      </a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/ThibautVermersch/Portfolio">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Portfolio&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Portfolio" />
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/ThibautVermersch/animeList">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=animeList&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="animeList" />
+  </a>
+  <a href="https://github.com/ThibautVermersch/Fractalens">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Fractalens&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="FractaLens" />
+  </a>
+  <br/>
+  <a href="https://github.com/ThibautVermersch/PacMan">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=PacMan&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="PacMan" />
+  </a>
+  <a href="https://github.com/ThibautVermersch/Application-Gestion-de-Cabinet-medical">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Application-Gestion-de-Cabinet-medical&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Gestion de Cabinet médical" />
+  </a>
+  <br/>
+  <a href="https://github.com/ThibautVermersch/Generateur-de-mots-de-passe">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Generateur-de-mots-de-passe&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Générateur de mots de passe" />
+  </a>
+  <a href="https://github.com/ThibautVermersch/Portfolio">
+    <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=ThibautVermersch&repo=Portfolio&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&cache_seconds=1800" alt="Portfolio" />
+  </a>
+</p>
 
 
 ---
 
 ### 📊 Statistiques GitHub
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=ThibautVermersch&show_icons=true&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&icon_color=4a1f80&count_private=true" alt="Statistiques de Thibaut" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautVermersch&layout=compact&theme=tokyonight&bg_color=080711&border_color=16287e&title_color=f8f9fa&text_color=94a3b8&hide=html,css" alt="Langages les plus utilisés" />
-</p>
+
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=ThibautVermersch&show_icons=true&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&icon_color=4a1f80&count_private=true" alt="Statistiques de Thibaut" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautVermersch&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&hide=html,css" alt="Langages les plus utilisés" />
+
 
 ---
 
