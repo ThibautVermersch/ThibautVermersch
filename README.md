@@ -45,7 +45,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
-<!-- 
+
 ### 🚀 Projets mis en avant
 
 <p align="center">
@@ -75,13 +75,13 @@
 
 ### 📊 Statistiques GitHub
 
-<p align="center">
+
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=ThibautVermersch&show_icons=true&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&icon_color=4a1f80&count_private=true" alt="Statistiques de Thibaut" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautVermersch&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&hide=html,css" alt="Langages les plus utilisés" />
-</p>
+
 
 ---
---> 
+
 ### 📫 Me contacter
 
 <p align="center">
