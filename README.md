@@ -2,9 +2,7 @@
 
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:4a1f80,50:080711,100:16287e&height=250&section=header&text=Thibaut%20Vermersch&fontSize=70&fontColor=f8f9fa&fontAlignY=38&animation=fadeIn)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Lora&weight=700&size=28&pause=1000&color=F8F9FA&center=true&vCenter=true&width=890&lines=D%C3%A9veloppeur;%C3%89tudiant+%C3%A0+l'IUT+de+Lens)](https://git.io/typing-svg)
 
----
 
 <a href="https://sachin-shell.vercel.app">
   <picture>
@@ -14,11 +12,13 @@
   </picture>
 </a>
 
----
+
+
+### ⭐ Compètences Techniques 
 
 <table> <tr> <td valign="middle" align="center" width="130" nowrap><b>🎨&nbsp;Frontend</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="40" alt="HTML5"><br><sub><b>HTML5</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="40" alt="CSS3"><br><sub><b>CSS3</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="40" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>⚙️&nbsp;Backend</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=php&theme=dark" height="40" alt="PHP"><br><sub><b>PHP</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" height="40" alt="Laravel"><br><sub><b>Laravel</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=flask&theme=dark" height="40" alt="Flask"><br><sub><b>Flask</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=java&theme=dark" height="40" alt="Java"><br><sub><b>Java</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=py&theme=dark" height="40" alt="Python"><br><sub><b>Python</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=bash&theme=dark" height="40" alt="Bash"><br><sub><b>Bash</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>🗄️&nbsp;Données</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="40" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td> <td align="center" width="90"><img src="./assets/sql.svg" height="40" alt="SQL"><br><sub><b>SQL</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>💻&nbsp;IDE</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40" alt="VS Code"><br><sub><b>VS Code</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40" alt="IntelliJ IDEA"><br><sub><b>IntelliJ IDEA</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=phpstorm&theme=dark" height="40" alt="PhpStorm"><br><sub><b>PhpStorm</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=eclipse&theme=dark" height="40" alt="Eclipse"><br><sub><b>Eclipse</b></sub></td> </tr></table> </td> </tr> <tr> <td valign="middle" align="center" width="130" nowrap><b>🛠️&nbsp;Outils</b></td> <td> <table><tr> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="40" alt="Git"><br><sub><b>Git</b></sub></td> <td align="center" width="90"><img src="https://skillicons.dev/icons?i=linux&theme=dark" height="40" alt="Linux"><br><sub><b>Linux</b></sub></td> </tr></table> </td> </tr> </table>
 
----
+
 
 ### 🚀 Projets mis en avant
 
@@ -46,7 +46,6 @@
 </p>
 
 
----
 
 ### 📊 Statistiques GitHub
 
@@ -55,7 +54,6 @@
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThibautVermersch&theme=tokyonight&bg_color=080711&border_color=4a1f80&title_color=f8f9fa&text_color=94a3b8&hide=html,css" alt="Langages les plus utilisés" />
 
 
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ThibautVermersch/ThibautVermersch/output/snake-dark.svg">
@@ -63,7 +61,6 @@
   <img alt="Serpent qui mange le graphe de contributions" src="https://raw.githubusercontent.com/ThibautVermersch/ThibautVermersch/output/snake.svg" width="100%">
 </picture>
 
----
 
 ### 📫 Me contacter
 
