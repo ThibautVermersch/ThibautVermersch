@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
 
 ![Bannière](https://capsule-render.vercel.app/api?type=waving&color=0:4a1f80,50:080711,100:16287e&height=250&section=header&text=Thibaut%20Vermersch&fontSize=70&fontColor=f8f9fa&fontAlignY=38&animation=fadeIn)
 
